@@ -1,0 +1,27 @@
+{
+  "name": "watch.is-smart-tv",
+  "version": "0.1.0",
+  "description": "watch.is viewer for Samsung smart tv",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compass": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thoice/smart-tv-watch.is.git"
+  },
+  "author": "thoice@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thoice/smart-tv-watch.is/issues"
+  },
+  "homepage": "https://github.com/thoice/smart-tv-watch.is"
+}
